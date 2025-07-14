@@ -7,10 +7,12 @@ padding: 0;}
     font-size: 35px;
     font-weight: bold;
     height: 190px;
-    background-image: url(../styles/image/pexels-pixabay-259280.jpg);
-   background-size: 500px;
    padding-top: 5%;
+   background-image: url(image/pexels-castorlystock-8821918.jpg);
+   background-size: cover;
+  
 }
+  
 
 
 div{
